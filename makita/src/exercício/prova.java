@@ -1,13 +1,12 @@
-package prova\aula;
+package exercício;
 
 public class prova {
-    public static void main(String[] args) {
-        
+    
       String autor;
       String descrição;
 
- void dadosLivros()
+      void dadosLivros(){
       System.out.println("autor " + autor);
       System.out.println("descrição " + descrição);
     }
-}
+  }
